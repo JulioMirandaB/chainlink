@@ -1,0 +1,11 @@
+@charset "UTF-8";
+#myWorkContent{
+    width:100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+#myWorkContent a {
+    display: inline-block;
+    vertical-align: middle;
+}
